@@ -15,9 +15,13 @@ $npm install express --save
 
 $npm install nodemon --save-dev
 
-4.Setelah itu jalankan dengan
+4.Setelah itu buat file server.js atau whatever you want
 
-$nodemon //bila port sudah diconfig di file.js
+5.Konfigurasi port, express di server.js
+
+6.Jalankan dengan
+
+$nodemon //bila port sudah diconfig di server.js
 
 5.Add socket.io di script  
 
