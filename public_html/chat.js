@@ -1,6 +1,6 @@
 // Make Connection
 
-var socket = io.connect('http://192.168.1.5:4000');
+var socket = io.connect('http://192.168.0.131:4000');
 
 // Query DOM
 var message = document.getElementById('message');
@@ -8,8 +8,7 @@ var message = document.getElementById('message');
     btn = document.getElementById('send'),
     output = document.getElementById('output');
     feedback = document.getElementById('feedback');
-
-
+    
 // Emit events
 
 btn.addEventListener('click', function(){
