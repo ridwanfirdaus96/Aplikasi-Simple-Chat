@@ -25,7 +25,7 @@ $npm install nodemon --save-dev
 $nodemon //bila port sudah diconfig di server.js
 ```
 5.Add socket.io di script  
-```
-https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.1.1/socket.io.js
-```
+
+(https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.1.1/socket.io.js)
+
 
