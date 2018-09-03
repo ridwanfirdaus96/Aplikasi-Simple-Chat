@@ -5,6 +5,9 @@
 [![Coverage Status](https://img.shields.io/coveralls/websockets/ws/master.svg)](https://coveralls.io/r/websockets/ws?branch=master)
 ## Aplikasi Chat menggunakan websocket
 
+## Table of Contents
+* [Instalasi](#instalasi)
+
 ### Instalasi :
 
 1.Install npm di direktori 
