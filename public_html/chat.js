@@ -1,6 +1,6 @@
 // Make Connection
 
-var socket = io.connect('http://192.168.0.131:4000');
+var socket = io.connect('http://www.rri.local:4000');
 
 // Query DOM
 var message = document.getElementById('message');
